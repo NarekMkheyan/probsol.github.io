@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.332f2b86.css",
+    "main.js": "/static/js/main.305b569f.js",
+    "static/js/787.0005558d.chunk.js": "/static/js/787.0005558d.chunk.js",
+    "static/media/weight gain.jpg": "/static/media/weight gain.c87a9d0ac7f36a4093d7.jpg",
+    "static/media/speed reading.webp": "/static/media/speed reading.0143a95baa55c039cffb.webp",
+    "static/media/tar.webp": "/static/media/tar.ebbc0a88232cebc684d2.webp",
+    "static/media/not-spent-money.jpg": "/static/media/not-spent-money.51be8b2e9ef441581138.jpg",
+    "static/media/kids.jpg": "/static/media/kids.fb35e333d85da38ccc0e.jpg",
+    "static/media/movies.webp": "/static/media/movies.2d26f02f15a21f63e27e.webp",
+    "static/media/Count.jpg": "/static/media/Count.34bcac45c8c98ac31377.jpg",
+    "static/media/nicotine.webp": "/static/media/nicotine.5f1106b4311aa2cef83d.webp",
+    "static/media/Gambling.jpg": "/static/media/Gambling.8ceee42a5b6e3396fc78.jpg",
+    "static/media/lifespan.jpg": "/static/media/lifespan.53a12483605e02bdfc1c.jpg",
+    "static/media/attractive.jpg": "/static/media/attractive.c969c96298add8f6fc3b.jpg",
+    "static/media/time managment.webp": "/static/media/time managment.3fd198b46de482738f9d.webp",
+    "static/media/finance managment.webp": "/static/media/finance managment.d213b61d0963dd29d143.webp",
+    "static/media/smoking.webp": "/static/media/smoking.55a7f863b2ffe098f3e8.webp",
+    "static/media/weight reduction.webp": "/static/media/weight reduction.701065fdbcaf9ed81d9e.webp",
+    "static/media/saved-time.jpg": "/static/media/saved-time.cea5c3841a7bf0344911.jpg",
+    "static/media/Smokers-cough.jpg": "/static/media/Smokers-cough.aced27a4158908cd0b26.jpg",
+    "static/media/kisspng-computer-icons-insight-problem-5adbcd13e753d5.png": "/static/media/kisspng-computer-icons-insight-problem-5adbcd13e753d5.4048194815243543239475.404c5eb9a500e7a1eeb9.png",
+    "static/media/Main-logo.png": "/static/media/Main-logo.5655da1ceb8c0edcbacf.png",
+    "static/media/Signin.png": "/static/media/Signin.0823e1d528a526242c38.png",
+    "index.html": "/index.html",
+    "main.332f2b86.css.map": "/static/css/main.332f2b86.css.map",
+    "main.305b569f.js.map": "/static/js/main.305b569f.js.map",
+    "787.0005558d.chunk.js.map": "/static/js/787.0005558d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.332f2b86.css",
+    "static/js/main.305b569f.js"
+  ]
+}
